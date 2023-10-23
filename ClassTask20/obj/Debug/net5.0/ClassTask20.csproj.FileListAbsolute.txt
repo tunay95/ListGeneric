@@ -1,0 +1,16 @@
+C:\Users\II novbe\source\repos\ClassTask20\ClassTask20\bin\Debug\net5.0\ClassTask20.exe
+C:\Users\II novbe\source\repos\ClassTask20\ClassTask20\bin\Debug\net5.0\ClassTask20.deps.json
+C:\Users\II novbe\source\repos\ClassTask20\ClassTask20\bin\Debug\net5.0\ClassTask20.runtimeconfig.json
+C:\Users\II novbe\source\repos\ClassTask20\ClassTask20\bin\Debug\net5.0\ClassTask20.runtimeconfig.dev.json
+C:\Users\II novbe\source\repos\ClassTask20\ClassTask20\bin\Debug\net5.0\ClassTask20.dll
+C:\Users\II novbe\source\repos\ClassTask20\ClassTask20\bin\Debug\net5.0\ref\ClassTask20.dll
+C:\Users\II novbe\source\repos\ClassTask20\ClassTask20\bin\Debug\net5.0\ClassTask20.pdb
+C:\Users\II novbe\source\repos\ClassTask20\ClassTask20\obj\Debug\net5.0\ClassTask20.csproj.AssemblyReference.cache
+C:\Users\II novbe\source\repos\ClassTask20\ClassTask20\obj\Debug\net5.0\ClassTask20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\source\repos\ClassTask20\ClassTask20\obj\Debug\net5.0\ClassTask20.AssemblyInfoInputs.cache
+C:\Users\II novbe\source\repos\ClassTask20\ClassTask20\obj\Debug\net5.0\ClassTask20.AssemblyInfo.cs
+C:\Users\II novbe\source\repos\ClassTask20\ClassTask20\obj\Debug\net5.0\ClassTask20.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\source\repos\ClassTask20\ClassTask20\obj\Debug\net5.0\ClassTask20.dll
+C:\Users\II novbe\source\repos\ClassTask20\ClassTask20\obj\Debug\net5.0\ref\ClassTask20.dll
+C:\Users\II novbe\source\repos\ClassTask20\ClassTask20\obj\Debug\net5.0\ClassTask20.pdb
+C:\Users\II novbe\source\repos\ClassTask20\ClassTask20\obj\Debug\net5.0\ClassTask20.genruntimeconfig.cache
